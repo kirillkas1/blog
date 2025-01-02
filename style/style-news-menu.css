@@ -82,10 +82,12 @@
     font-size: 20px;
 }
 .title-news {
+    border: 2px offset black;
     font-family: 'Arimo', sans-serif;
     font-size: 28px;
 }
 .tags {
+  border: 2px offset black;
     font-family: 'Arimo', sans-serif;
     font-size: 22px;
 }
