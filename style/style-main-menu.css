@@ -77,18 +77,18 @@
     font-size: 30px;
 }
 .news {
-    display: block;
-    border: 2px offset black;
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
     font-family: 'Arimo', sans-serif;
     font-size: 20px;
 }
 .title-news {
-    border: 2px offset black;
     font-family: 'Arimo', sans-serif;
     font-size: 28px;
 }
 .tags {
-    border: 2px offset black;
     font-family: 'Arimo', sans-serif;
     font-size: 22px;
 }
