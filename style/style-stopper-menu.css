@@ -57,35 +57,9 @@
   @media (max-width: 600px) {
   .menu-main li {display: block;}
   }
-  
 .main-cont {
     background-color: #ced3ed;
 }
 .title {
-    background-color: #334ee8;
-    color: #fff;
-    font-family: 'Arimo', sans-serif;
-    font-size: 40px;
-    text-align: center;
-}
-.text1 {
-    font-family: 'Arimo', sans-serif;
-    font-size: 25px;
-}
-.news-main-title {
-    font-family: 'Arimo', sans-serif;
-    font-size: 30px;
-}
-.news {
-    border: 2px offset black;
-    font-family: 'Arimo', sans-serif;
-    font-size: 20px;
-}
-.title-news {
-    font-family: 'Arimo', sans-serif;
-    font-size: 28px;
-}
-.tags {
-    font-family: 'Arimo', sans-serif;
-    font-size: 22px;
+    background-color: #334EE8;
 }
